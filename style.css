@@ -1,14 +1,20 @@
 body {
+    background-image: url(fundo.jpg);
 }
 
 main#container {
+    background-color: rgb(63, 8, 151);
 }
 
 h1.titulo {
+    color: rgb(84, 101, 158);
 }
 
 p.frase {
+    color: rgb(16, 5, 17);
 }
 
-p.autor {
+p.autor { 
+    color: rgb(103, 74, 172);
+    font-size: 20px;
 }
